@@ -14,4 +14,10 @@ const meeka = {
  challenge: "I am doing the #100DaysOfCode challenge."
 }
 ```
-♥ ʟᴇᴛ'ꜱ ᴄᴏɴɴᴇᴄᴛ! ꜱᴀʏ 𝙷𝚒!
+♥ ʟᴇᴛ'ꜱ ᴄᴏɴɴᴇᴄᴛ! ꜱᴀʏ 𝙷𝚒!</br>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-ッ-blue)](https://www.linkedin.com/in/oussaspivey/)
+  [![Instagram](https://img.shields.io/badge/Instagram-ッ-orange)](https://www.instagram.com/mimi__chm/)
+  [![GitHub](https://img.shields.io/github/followers/meekachm?style=social)](https://github.com/meekachm)
+
+
+
