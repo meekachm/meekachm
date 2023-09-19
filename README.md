@@ -4,12 +4,13 @@
 </br>
 ᴀ ʟɪᴛᴛʟᴇ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ᴍᴇ... 
 
-```ruby
+```js
 const meeka = {
   pronouns: "she" | "her",
+  hobbies: [Hiking, Videogames, Custom-Keyboard(new)],
   currentlyLearning: {
-                        front end: "Javascript", "HTML", "CSS",
-                         back end: "Python", "C++"
+                          frontend: "Javascript", "HTML", "CSS",
+                           backend: "Python", "C++"
                       },
  challenge: "I am doing the #100DaysOfCode challenge."
 }
