@@ -9,7 +9,7 @@ const meeka = {
   pronouns: "she" | "her",
   hobbies: [Hiking, Videogames, Custom-Keyboard(new)],
   currentlyLearning: {
-                        fronttend: "Javascript", "HTML", "CSS",
+                         frontend: "Javascript", "HTML", "CSS",
                           backend: "Python", "Node.js", "C++",
                              data: "Python", "Numpy", "Pandas"
                       },
