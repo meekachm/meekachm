@@ -14,5 +14,4 @@ const meeka = {
  challenge: "I am doing the #100DaysOfCode challenge."
 }
 ```
-♥ ʟᴇᴛ'ꜱ ᴄᴏɴɴᴇᴄᴛ! ꜱᴀʏ 𝙷𝚒! ɪ'ᴍ ᴀʟᴡᴀʏꜱ ʜᴀᴘᴘʏ ᴛᴏ ᴍᴇᴇᴛ ɴᴇᴡ ᴘᴇᴏᴘʟᴇ!
-
+♥ ʟᴇᴛ'ꜱ ᴄᴏɴɴᴇᴄᴛ! ꜱᴀʏ 𝙷𝚒!
