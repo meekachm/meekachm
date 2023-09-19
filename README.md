@@ -7,7 +7,6 @@
 ```ruby
 const meeka = {
   pronouns: "she" | "her",
-  hobbies: [videoGames, cooking],
   currentlyLearning: {
                         front end: "Javascript", "HTML", "CSS",
                          back end: "Python", "C++"
