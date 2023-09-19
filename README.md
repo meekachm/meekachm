@@ -9,8 +9,9 @@ const meeka = {
   pronouns: "she" | "her",
   hobbies: [Hiking, Videogames, Custom-Keyboard(new)],
   currentlyLearning: {
-                          frontend: "Javascript", "HTML", "CSS",
-                           backend: "Python", "C++"
+                        front-tend: "Javascript", "HTML", "CSS",
+                          back-end: "Python", 'Node.js", "C++",
+                              data: "Python", "Numpy", "Pandas"
                       },
  challenge: "I am doing the #100DaysOfCode challenge."
 }
