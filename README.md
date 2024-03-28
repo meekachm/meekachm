@@ -1,9 +1,7 @@
 ### ʜɪ! ɪ'ᴍ ᴍᴇᴇᴋᴀ. <img src="https://media.tenor.com/fYpViWgF-qgAAAAi/teagif-cute.gif" width="50">
-<img src="https://media.tenor.com/to0k0Ly8tDQAAAAi/busy-cat.gif" width="25"> ꜱᴏꜰᴛᴡᴀʀᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ ɪɴ ᴛʀᴀɪɴɪɴɢ<a href="https://www.shopify.com/">@ꜱʜᴏᴘɪꜰʏ</a></br>
-<img src="https://media.tenor.com/lIn9cLPOBOkAAAAi/glasses-confuse.gif" width="25"> ᴀᴘᴘʟɪᴇᴅ ᴄᴏᴍᴘᴜᴛᴇʀ ꜱᴄɪᴇɴᴄᴇ ꜱᴛᴜᴅᴇɴᴛ<a href="https://www.dominican.edu/">@ᴅᴏᴍɪɴɪᴄᴀɴ ᴜɴɪᴠᴇʀꜱɪᴛʏ ᴏꜰ ᴄᴀʟɪꜰᴏʀɴɪᴀ</a></br>
+<img src="https://media.tenor.com/to0k0Ly8tDQAAAAi/busy-cat.gif" width="25"> ꜱᴏꜰᴛᴡᴀʀᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ ɪɴ ᴛʀᴀɪɴɪɴɢ</br>
 </br>
 ᴀ ʟɪᴛᴛʟᴇ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ᴍᴇ... 
-
 ```js
 const meeka = {
   pronouns: "she" | "her",
