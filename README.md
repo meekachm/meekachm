@@ -5,19 +5,14 @@
 ```js
 const meeka = {
   pronouns: "she" | "her",
-  hobbies: [Hiking, Videogames, Custom-Keyboard(new)],
   currentlyLearning: {
-                         frontend: "HTML", "CSS", "Javascript", "TypeScript", "React",
-                          backend: "Python", "Node.js", "C++",
-                             data: "Python", "Numpy", "Pandas"
+                         frontend: "HTML", "CSS", "JavaScript", "TypeScript", "React",
+                          backend: "Python", "Node.js", "C++"
                       },
- challenge: "I am doing the #100DaysOfCode challenge."
+  hobbies: [Photography, Fitness, Video Games, Learning languages],
 }
 ```
 ♥ ʟᴇᴛ'ꜱ ᴄᴏɴɴᴇᴄᴛ! ꜱᴀʏ 𝙷𝚒!</br>
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-ッ-blue)](https://www.linkedin.com/in/oussaspivey/)
-  [![Instagram](https://img.shields.io/badge/Instagram-ッ-orange)](https://www.instagram.com/meekachm/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-ッ-blue)](https://www.linkedin.com/in/oussachhum/)
+  [![Instagram](https://img.shields.io/badge/Instagram-ッ-orange)](https://www.instagram.com/mii.field.notes/)
   [![GitHub](https://img.shields.io/github/followers/meekachm?style=social)](https://github.com/meekachm)
-
-
-
