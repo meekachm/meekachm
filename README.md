@@ -9,7 +9,7 @@ const meeka = {
                          frontend: "HTML", "CSS", "JavaScript", "TypeScript", "React",
                           backend: "Python", "Node.js", "C++"
                       },
-  hobbies: [Photography, Fitness, Video Games, Learning languages],
+  hobbies: [Photography, Fitness, Video Games, Learning Languages],
 }
 ```
 ♥ ʟᴇᴛ'ꜱ ᴄᴏɴɴᴇᴄᴛ! ꜱᴀʏ 𝙷𝚒!</br>
