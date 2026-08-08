@@ -1,5 +1,5 @@
 ### ʜɪ! ɪ'ᴍ ᴍᴇᴇᴋᴀ. <img src="https://media.tenor.com/fYpViWgF-qgAAAAi/teagif-cute.gif" width="50">
-<img src="https://media.tenor.com/to0k0Ly8tDQAAAAi/busy-cat.gif" width="25"> ꜱᴏꜰᴛᴡᴀʀᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ ɪɴ ᴛʀᴀɪɴɪɴɢ</br>
+<img src="https://media.tenor.com/to0k0Ly8tDQAAAAi/busy-cat.gif" width="25"> ᴀsᴘɪʀɪɴɢ sᴏꜰᴛᴡᴀʀᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ</br>
 </br>
 ᴀ ʟɪᴛᴛʟᴇ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ᴍᴇ... 
 ```js
