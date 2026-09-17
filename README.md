@@ -13,6 +13,5 @@ const meeka = {
 }
 ```
 ♥ ʟᴇᴛ'ꜱ ᴄᴏɴɴᴇᴄᴛ! ꜱᴀʏ 𝙷𝚒!</br>
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-ッ-blue)](https://www.linkedin.com/in/oussachhum/)
   [![Instagram](https://img.shields.io/badge/Instagram-ッ-orange)](https://www.instagram.com/mii.field.notes/)
   [![GitHub](https://img.shields.io/github/followers/meekachm?style=social)](https://github.com/meekachm)
