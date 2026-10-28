@@ -13,23 +13,12 @@ const meeka = {
     "Shopify Dev Degree training",
     "Customer-facing technical troubleshooting"
   ],
-  interests: [
-    "AI evaluation",
-    "Software testing",
-    "Technical quality",
-    "Learning technical automation"
-  ],
-  learning: {
-    web: ["HTML", "CSS", "JavaScript", "React"],
-    programming: ["Python", "C++"],
-    data: ["SQL"],
-    tools: ["Git", "GitHub"]
-  },
+  learning: ["HTML", "CSS", "JavaScript", "Python", "SQL"],
   hobbies: ["Photography", "Fitness", "Video games", "Learning languages"]
 };
 ```
 
-I'm building on AI evaluation experience, software development training through Shopify's Dev Degree program, and customer-facing device setup and troubleshooting at Apple. My current focus is strengthening my testing skills and continuing to learn.
+I'm interested in AI evaluation, technical quality, and software testing. My current focus is strengthening my testing skills and exploring technical automation.
 
 <br>
 
@@ -52,5 +41,3 @@ My repositories include coursework, practice exercises, and projects in developm
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Meeka_Chhum-d8b4cf?style=flat)](https://www.linkedin.com/in/meekachhum/)
-[![Instagram](https://img.shields.io/badge/Instagram-ッ-orange)](https://www.instagram.com/mii.field.notes/)
-[![GitHub](https://img.shields.io/github/followers/meekachm?style=social)](https://github.com/meekachm)
