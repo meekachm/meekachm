@@ -1,31 +1,56 @@
-# Hi, I'm Meeka 👋
+### ʜɪ! ɪ'ᴍ ᴍᴇᴇᴋᴀ. <img src="https://media.tenor.com/fYpViWgF-qgAAAAi/teagif-cute.gif" width="50" alt="Animated cat enjoying tea">
 
-I'm building on experience in AI evaluation, customer-facing technical troubleshooting, and software development training through Shopify's Dev Degree program.
+<img src="https://media.tenor.com/to0k0Ly8tDQAAAAi/busy-cat.gif" width="25" alt="Animated busy cat"> ʟᴇᴀʀɴɪɴɢ, ʙᴜɪʟᴅɪɴɢ & ᴘʀᴏʙʟᴇᴍ-ꜱᴏʟᴠɪɴɢ
+<br><br>
 
-I'm interested in opportunities in **AI evaluation, technical quality, and software testing**, while continuing to learn about technical automation.
+ᴀ ʟɪᴛᴛʟᴇ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ᴍᴇ...
 
-## Explore my work
+```js
+const meeka = {
+  pronouns: ["she", "her"],
+  experience: [
+    "AI evaluation & R1 review",
+    "Shopify Dev Degree training",
+    "Customer-facing technical troubleshooting"
+  ],
+  interests: [
+    "AI evaluation",
+    "Software testing",
+    "Technical quality",
+    "Learning technical automation"
+  ],
+  learning: {
+    web: ["HTML", "CSS", "JavaScript", "React"],
+    programming: ["Python", "C++"],
+    data: ["SQL"],
+    tools: ["Git", "GitHub"]
+  },
+  hobbies: ["Photography", "Fitness", "Video games", "Learning languages"]
+};
+```
 
-This GitHub includes coursework, practice exercises, and projects in development. These repositories reflect my learning; they are not all finished products.
+I'm building on AI evaluation experience, software development training through Shopify's Dev Degree program, and customer-facing device setup and troubleshooting at Apple. My current focus is strengthening my testing skills and continuing to learn.
 
-| Repository | What you'll find | Context |
-| --- | --- | --- |
-| [Kyuu — Filmmaker Portfolio](https://github.com/meekachm/kyuu-website) | A static filmmaker portfolio with English/Japanese language switching | Independent project; ongoing refinement |
-| [Python / Flask testing](https://github.com/meekachm/ACS-1220-Testing-Homework) | Tests covering authentication and web application behavior | Coursework |
-| [SQL commands practice](https://github.com/meekachm/sql-commands-practice) | Related tables, joins, and filtered queries using a songs-and-albums dataset | Coursework / practice |
+<br>
 
-## Technical background
+### ꜱᴏᴍᴇ ᴏꜰ ᴍʏ ᴡᴏʀᴋ...
 
-- **Web development training:** HTML, CSS, JavaScript, React, and Git/GitHub.
-- **Programming and database practice:** Python, C++, and SQL.
-- **AI evaluation experience:** evaluator work and R1 Reviewer assignments.
-- **Technical troubleshooting:** customer-facing device setup and support at Apple.
+**[Kyuu — Filmmaker Portfolio](https://github.com/meekachm/kyuu-website)**  
+A website built with HTML, CSS, and JavaScript, including English/Japanese language switching. *Ongoing refinement.*
 
-My current focus is strengthening my testing skills and documenting my work clearly.
+**[Flask Books App — Testing Coursework](https://github.com/meekachm/ACS-1220-Testing-Homework)**  
+Python coursework containing tests for authentication and web application behavior.
 
-## A little outside of code
+**[SQL Practice — Songs & Albums](https://github.com/meekachm/sql-commands-practice)**  
+A coursework exercise exploring related tables, joins, and filtered queries.
 
-Photography, fitness, video games, and learning languages.
+My repositories include coursework, practice exercises, and projects in development. Individual READMEs explain their context and status.
 
-[LinkedIn](https://www.linkedin.com/in/meekachhum/)
+<br>
 
+♥ ʟᴇᴛ'ꜱ ᴄᴏɴɴᴇᴄᴛ! ꜱᴀʏ 𝙷𝚒!
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Meeka_Chhum-d8b4cf?style=flat)](https://www.linkedin.com/in/meekachhum/)
+[![Instagram](https://img.shields.io/badge/Instagram-ッ-orange)](https://www.instagram.com/mii.field.notes/)
+[![GitHub](https://img.shields.io/github/followers/meekachm?style=social)](https://github.com/meekachm)
